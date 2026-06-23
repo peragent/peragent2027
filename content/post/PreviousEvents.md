@@ -5,7 +5,7 @@ subtitle: "---"
 excerpt: "Previous Events"
 description: ""
 date: 2024-06-30
-author: "Sara Montagna, Marco Picone, Samuele Burattini"
+author: "Dipanwita Thakur, Vishesh Kumar Tanwar, Pandarasamy Arjunan, Hirozumi Yamaguchi"
 image: "img/goa.jpg"
 URL: "/previous"
 ---
