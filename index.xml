@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DIGITA 26</title>
+    <link>https://digita-percom.github.io/2026/</link>
+    <description>Recent content on DIGITA 26</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 16 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://digita-percom.github.io/2026/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Accepted Papers</title>
+      <link>https://digita-percom.github.io/2026/accepted/</link>
+      <pubDate>Sun, 16 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://digita-percom.github.io/2026/accepted/</guid>
+      <description>Accepted Papers We received a total of 23 submissions to the workshop, out of which we accepted 12 for presentation. We thank all authors and reviewers for their contribution to the DIGITA Workshop.
+Authors Title Hrishikesh Dutta; Roberto Minerva; Noel Crespi Dual Mind World Model Inspired Network Digital Twin for Access Scheduling Andreas Kamilaris; Savvas Karatsiolis; Chirag Padubidri; Asfa Jamil; Arslan Amin; Indrajit Kalita GAEA: Experiences and Lessons Learned from a Country-Scale Environmental Digital Twin Eita Kobayashi; Nattaon Techasarntikul; Yuichi Ohsita; Hideyuki Shimonishi Confidence-Based Maintenance Optimization in Digital Twins for Aging Sensor Networks Christian Di Buò; Simone Reale; Roberta Calegari; Andrea Borghesi Sustainable City via Trustworthy Civic Digital Twin: a Use Case Fabrizio Baiardi; Vincenzo Sammartino; Salvatore Ruggieri Evaluating Adversary Strategies Through a Security Twin Manuel Andruccioli; Kelvin Olaiya; Giovanni Delnevo; Silvia Mirri; Paola Salomoni A Human-Centered Domain-Agnostic User Interface for Digital Twins Salvatore Serrano; Claudia Campolo; Giuseppe Ruggeri; Antonella Molinaro; Marica Amadeo Federated Learning for Digital Twin-assisted Speech Emotion Recognition Amardeep Kumar; Saugata Roy; Praveen Kumar Donta; Dinesh Kumar Sah Digital Twin for Intent-driven Edge Networks Yoei Waki; Satoshi Ohzahata; Hitoshi Asaeda Real-Time State Synchronization for Multiplayer VR Applications in ICN Danila Romanov; Hui Cheng; Victoria Degeler Digital Twins of Smart Buildings: Technical Solutions and Challenges Marek Michalski Digital Twin as a Virtual Platform for Security Analysis in log2 N Switching Fabrics Marco Picone; Samuele Burattini; Marco Melloni; Prasad Talasila; Davide Ziglioli; Matteo Martinelli; Nicola Bicocchi; Peter Larsen A Multi-Simulation Bridge for IoT Digital Twins </description>
+    </item>
+    
+    <item>
+      <title>Dates</title>
+      <link>https://digita-percom.github.io/2026/dates/</link>
+      <pubDate>Sun, 16 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://digita-percom.github.io/2026/dates/</guid>
+      <description>Dates Paper submission deadline: November 17th, 2025 December 7th, 2025 Paper notification: January 5th, 2025 January 15, 2026 Camera Ready Deadline: February 2nd, 2026 Workshop: 16 March, 2026 For your Camera Ready, please refer to the official PerCom instructions</description>
+    </item>
+    
+    <item>
+      <title>Organization</title>
+      <link>https://digita-percom.github.io/2026/organization/</link>
+      <pubDate>Sun, 16 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://digita-percom.github.io/2026/organization/</guid>
+      <description>Committees Organizing Committee Sara Montagna, Department of Pure and Applied Science - University of Urbino Carlo Bo, Italy Samuele Burattini, Department of Computer Science and Engineering - Alma Mater Studiorum University of Bologna, Italy Lukas Esterle, Department of Electrical and Computer Engineering - Aarhus University, Denmark Marco Picone, Department of Sciences and Methods for Engineering (DISMI) - University of Modena and Reggio Emilia Program Committee Alessandra Somma University of Naples Federico II, Italy</description>
+    </item>
+    
+    <item>
+      <title>Previous Events</title>
+      <link>https://digita-percom.github.io/2026/previous/</link>
+      <pubDate>Sun, 16 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://digita-percom.github.io/2026/previous/</guid>
+      <description>Previous Events This workshop is the second edition of DIGITA @ PerCom. Last year (2025), we held the first edition of the Workshop in Washington, D.C. receiving a total of 15 submissions out of which 9 papers were accepted for presentation.
+Check out the history of DIGITA here.</description>
+    </item>
+    
+    <item>
+      <title>Program</title>
+      <link>https://digita-percom.github.io/2026/program/</link>
+      <pubDate>Sun, 16 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://digita-percom.github.io/2026/program/</guid>
+      <description>Program The workshop will be a full day workshop on the 16th of March 2026
+Time Title Authors 08:30-09:00Registration Session 1: Welcome &amp; KeynoteChair: Sara Montagna 09:00-09:20Welcome to DIGITASamuele Burattini, Lukas Esterle, Sara Montagna, Marco Picone 09:20-10:20Keynote: Requirements and Design Architecture for Digital Twin End-to-End TrustworthinessAntonio Virdis 10:20-10:30Joint Q&amp;A 10:30-11:00Coffee Break Session 2: Large Scale Digital Twin EcosystemsChair: Lukas Esterle 11:00-11:20Digital Twins of Smart Buildings: Technical Solutions and ChallengesDanila Romanov; Hui Cheng; Victoria Degeler 11:20-11:40Sustainable City via Trustworthy Civic Digital Twin: a Use CaseChristian Di Buò; Simone Reale; Roberta Calegari; Andrea Borghesi 11:40-12:00GAEA: Experiences and Lessons Learned from a Country-Scale Environmental Digital TwinAndreas Kamilaris; Savvas Karatsiolis; Chirag Padubidri; Asfa Jamil; Arslan Amin; Indrajit Kalita 12:00-12:20A Multi-Simulation Bridge for IoT Digital TwinsMarco Picone; Samuele Burattini; Marco Melloni; Prasad Talasila; Davide Ziglioli; Matteo Martinelli; Nicola Bicocchi; Peter Larsen 12:20-12:30Joint Q&amp;A 12:30-14:00Lunch Break Session 3: Network Digital TwinsChair: Marco Picone 14:00-14:20Real-Time State Synchronization for Multiplayer VR Applications in ICNYoei Waki; Satoshi Ohzahata; Hitoshi Asaeda 14:20-14:40Confidence-Based Maintenance Optimization in Digital Twins for Aging Sensor NetworksEita Kobayashi; Nattaon Techasarntikul; Yuichi Ohsita; Hideyuki Shimonishi 14:40-15:00Digital Twin for Intent-driven Edge NetworksAmardeep Kumar; Saugata Roy; Praveen Kumar Donta; Dinesh Kumar Sah 15:00-15:20A Human-Centered Domain-Agnostic User Interface for Digital TwinsManuel Andruccioli; Kelvin Olaiya; Giovanni Delnevo; Silvia Mirri; Paola Salomoni 15:20-15:30Joint Q&amp;A 15:30-16:00Coffee Break Session 4: Security in Digital Twin EcosystemsChair: Samuele Burattini 16:00-16:20Dual Mind World Model Inspired Network Digital Twin for Access SchedulingHrishikesh Dutta; Roberto Minerva; Noel Crespi 16:20-16:40Evaluating Adversary Strategies Through a Security TwinFabrizio Baiardi; Vincenzo Sammartino; Salvatore Ruggieri 16:40-17:00Federated Learning for Digital Twin-assisted Speech Emotion RecognitionSalvatore Serrano; Claudia Campolo; Giuseppe Ruggeri; Antonella Molinaro; Marica Amadeo 17:00-17:20Digital Twin as a Virtual Platform for Security Analysis in log2 N Switching FabricsMarek Michalski 17:20-17:30Joint Q&amp;A 17:30-18:00ClosingSamuele Burattini, Lukas Esterle, Sara Montagna, Marco Picone Keynote: Requirements and Design Architecture for Digital Twin End-to-End Trustworthiness Keynote: Requirements and Design Architecture for Digital Twin End-to-End Trustworthiness Speaker: Antonio Virdis</description>
+    </item>
+    
+    <item>
+      <title>Call for papers</title>
+      <link>https://digita-percom.github.io/2026/cfp/</link>
+      <pubDate>Thu, 13 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://digita-percom.github.io/2026/cfp/</guid>
+      <description>Call for Papers The Digital Twin Ecosystems &amp;amp; Applications (DIGITA) workshop aims to provide a platform for sharing knowledge and experiences in the field of Digital Twin Ecosystems and their practical applications. This workshop seeks to explore the latest trends, challenges, and opportunities in the engineering and application of pervasive systems adopting the Digital Twin Ecosystems approach. Methodologies and tools for design and development, enabling technologies, and innovative use cases will be presented and discussed.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://digita-percom.github.io/2026/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://digita-percom.github.io/2026/about/</guid>
+      <description>The 23nd International Conference on Pervasive Computing and Communications (PerCom 2026) March 16 – 20, 2026, Pisa Italy Conference Overview // TODO Percom Info</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://digita-percom.github.io/2026/search/placeholder/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://digita-percom.github.io/2026/search/placeholder/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Posts Archive</title>
+      <link>https://digita-percom.github.io/2026/archive/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://digita-percom.github.io/2026/archive/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
