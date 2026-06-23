@@ -7,7 +7,7 @@ description: "The call for papers is out"
 date: 2026-06-30
 author: "Dipanwita Thakur, Vishesh Kumar Tanwar, Pandarasamy Arjunan, Hirozumi Yamaguchi
 "
-image: "img/pisa.jpg"
+image: "img/goa.jpg"
 URL: "/cfp"
 ---
 
