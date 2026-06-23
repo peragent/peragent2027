@@ -1,46 +1,46 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on DIGITA 26</title>
-    <link>https://digita-percom.github.io/2026/post/</link>
-    <description>Recent content in Posts on DIGITA 26</description>
+    <title>Posts on PerAgent 2027</title>
+    <link>https://peragent-percom.github.io/2027/post/</link>
+    <description>Recent content in Posts on PerAgent 2027</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 30 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://digita-percom.github.io/2026/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 30 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://peragent-percom.github.io/2027/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Dates</title>
-      <link>https://digita-percom.github.io/2026/dates/</link>
+      <link>https://peragent-percom.github.io/2027/dates/</link>
       <pubDate>Sun, 30 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://digita-percom.github.io/2026/dates/</guid>
+      <guid>https://peragent-percom.github.io/2027/dates/</guid>
       <description>Dates Paper submission deadline: November 17th, 2025 December 7th, 2026 Paper notification: January 5th, 2025 January 15, 2027 Camera Ready Deadline: February 2nd, 2027 Workshop: 8 March, 2027 For your Camera Ready, please refer to the official PerCom instructions </description>
     </item>
     
     <item>
       <title>Previous Events</title>
-      <link>https://digita-percom.github.io/2026/previous/</link>
+      <link>https://peragent-percom.github.io/2027/previous/</link>
       <pubDate>Sun, 30 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://digita-percom.github.io/2026/previous/</guid>
+      <guid>https://peragent-percom.github.io/2027/previous/</guid>
       <description>Previous Events This workshop is the first edition of PerAgent @ PerCom.</description>
     </item>
     
     <item>
       <title>Program</title>
-      <link>https://digita-percom.github.io/2026/program/</link>
+      <link>https://peragent-percom.github.io/2027/program/</link>
       <pubDate>Sun, 30 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://digita-percom.github.io/2026/program/</guid>
+      <guid>https://peragent-percom.github.io/2027/program/</guid>
       <description>Program The workshop will be a full day workshop on the 8th of March 2027
 Time Title Authors 08:30-09:00Registration Session 1: Welcome &amp; KeynoteChair: Sajal K. Das 09:00-09:20Welcome to PerAgentDipanwita Thakur, Vishesh Kumar Tanwar, Pandarasamy Arjunan, Hirozumi Yamaguchi 09:20-10:20Keynote: XXXXXXAntonio Virdis 10:20-10:30Joint Q&amp;A 10:30-11:00Coffee Break Session 2: XXXXXChair: XXXXX 11:00-11:20TitleAuthors &amp;lt;tr class=&amp;quot;qa-row&amp;quot;&amp;gt;&amp;lt;td&amp;gt;12:20-12:30&amp;lt;/td&amp;gt;&amp;lt;td&amp;gt;Joint Q&amp;amp;A&amp;lt;/td&amp;gt;&amp;lt;td&amp;gt;&amp;lt;/td&amp;gt;&amp;lt;/tr&amp;gt; &amp;lt;tr class=&amp;quot;lunch-break&amp;quot;&amp;gt;&amp;lt;td&amp;gt;12:30-14:00&amp;lt;/td&amp;gt;&amp;lt;td&amp;gt;Lunch Break&amp;lt;/td&amp;gt;&amp;lt;td&amp;gt;&amp;lt;/td&amp;gt;&amp;lt;/tr&amp;gt; &amp;lt;tr class=&amp;quot;session-row&amp;quot;&amp;gt;&amp;lt;td&amp;gt;&amp;lt;/td&amp;gt;&amp;lt;td&amp;gt;Session 3: XXXXX&amp;lt;/td&amp;gt;&amp;lt;td&amp;gt;Chair: XXXX&amp;lt;/td&amp;gt;&amp;lt;/tr&amp;gt; &amp;lt;tr&amp;gt;&amp;lt;td&amp;gt;14:00-14:20&amp;lt;/td&amp;gt;&amp;lt;td&amp;gt;&amp;lt;em&amp;gt;Title&amp;lt;/em&amp;gt;&amp;lt;/td&amp;gt;&amp;lt;td&amp;gt;Authors&amp;lt;/td&amp;gt;&amp;lt;/tr&amp;gt; &amp;lt;tr class=&amp;quot;qa-row&amp;quot;&amp;gt;&amp;lt;td&amp;gt;15:20-15:30&amp;lt;/td&amp;gt;&amp;lt;td&amp;gt;Joint Q&amp;amp;A&amp;lt;/td&amp;gt;&amp;lt;td&amp;gt;&amp;lt;/td&amp;gt;&amp;lt;/tr&amp;gt; &amp;lt;tr class=&amp;quot;coffee-break&amp;quot;&amp;gt;&amp;lt;td&amp;gt;15:30-16:00&amp;lt;/td&amp;gt;&amp;lt;td&amp;gt;Coffee Break&amp;lt;/td&amp;gt;&amp;lt;td&amp;gt;&amp;lt;/td&amp;gt;&amp;lt;/tr&amp;gt; &amp;lt;tr class=&amp;quot;session-row&amp;quot;&amp;gt;&amp;lt;td&amp;gt;&amp;lt;/td&amp;gt;&amp;lt;td&amp;gt;Session 4: XXXX&amp;lt;/td&amp;gt;&amp;lt;td&amp;gt;Chair: XXXXX&amp;lt;/td&amp;gt;&amp;lt;/tr&amp;gt; &amp;lt;tr&amp;gt;&amp;lt;td&amp;gt;16:00-16:20&amp;lt;/td&amp;gt;&amp;lt;td&amp;gt;&amp;lt;em&amp;gt;Title&amp;lt;/em&amp;gt;&amp;lt;/td&amp;gt;&amp;lt;td&amp;gt;Authors&amp;lt;/td&amp;gt;&amp;lt;/tr&amp;gt; &amp;lt;tr class=&amp;quot;qa-row&amp;quot;&amp;gt;&amp;lt;td&amp;gt;17:20-17:30&amp;lt;/td&amp;gt;&amp;lt;td&amp;gt;Joint Q&amp;amp;A&amp;lt;/td&amp;gt;&amp;lt;td&amp;gt;&amp;lt;/td&amp;gt;&amp;lt;/tr&amp;gt; &amp;lt;tr class=&amp;quot;closing-row&amp;quot;&amp;gt;&amp;lt;td&amp;gt;17:30-18:00&amp;lt;/td&amp;gt;&amp;lt;td&amp;gt;Closing&amp;lt;/td&amp;gt;&amp;lt;td&amp;gt;Dipanwita Thakur, Vishesh Kumar Tanwar, Pandarasamy Arjunan, Hirozumi Yamaguchi&amp;lt;/td&amp;gt;&amp;lt;/tr&amp;gt; &amp;lt;/tbody&amp;gt; Keynote: XXXXXXX Keynote: XXXXX Speaker: XXXXX</description>
     </item>
     
     <item>
       <title>Accepted Papers</title>
-      <link>https://digita-percom.github.io/2026/accepted/</link>
+      <link>https://peragent-percom.github.io/2027/accepted/</link>
       <pubDate>Sun, 16 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://digita-percom.github.io/2026/accepted/</guid>
+      <guid>https://peragent-percom.github.io/2027/accepted/</guid>
       <description>Accepted Papers We received a total of XX submissions to the workshop, out of which we accepted XX for presentation. We thank all authors and reviewers for their contribution to the PerAgent Workshop.
 Authors Title Authors Title </description>
     </item>
