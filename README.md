@@ -51,7 +51,7 @@ In `config.toml`, look for sections like;
 
 ```
   [[params.addtional_menus]]
-  title =  "Percom 2024"
+  title =  "Percom 2027"
   href =  "/about/"
 ```
 
