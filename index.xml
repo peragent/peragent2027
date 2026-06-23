@@ -17,6 +17,15 @@
     </item>
     
     <item>
+      <title>Previous Events</title>
+      <link>https://digita-percom.github.io/2026/previous/</link>
+      <pubDate>Sun, 30 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://digita-percom.github.io/2026/previous/</guid>
+      <description>Previous Events This workshop is the first edition of PerAgent @ PerCom.</description>
+    </item>
+    
+    <item>
       <title>Accepted Papers</title>
       <link>https://digita-percom.github.io/2026/accepted/</link>
       <pubDate>Sun, 16 Jun 2024 00:00:00 +0000</pubDate>
@@ -24,16 +33,6 @@
       <guid>https://digita-percom.github.io/2026/accepted/</guid>
       <description>Accepted Papers We received a total of XX submissions to the workshop, out of which we accepted XX for presentation. We thank all authors and reviewers for their contribution to the PerAgent Workshop.
 Authors Title Authors Title </description>
-    </item>
-    
-    <item>
-      <title>Previous Events</title>
-      <link>https://digita-percom.github.io/2026/previous/</link>
-      <pubDate>Sun, 16 Jun 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://digita-percom.github.io/2026/previous/</guid>
-      <description>Previous Events This workshop is the second edition of DIGITA @ PerCom. Last year (2025), we held the first edition of the Workshop in Washington, D.C. receiving a total of 15 submissions out of which 9 papers were accepted for presentation.
-Check out the history of DIGITA here.</description>
     </item>
     
     <item>
