@@ -15,11 +15,9 @@ home = ["HTML", "RSS", "Algolia"]
 [params]
   header_image = "img/goa.jpg"
   SEOTitle = "PerAgent 2027"
-  description = "Pervasive Agentic Systems and Multimodal Foundation
-Models"
+  description = "Pervasive Agentic Systems and Multimodal Foundation Models"
   keyword = "Agentic Systems, multimodality, Pervasive Computing"
-  slogan = "Pervasive Agentic Systems and Multimodal Foundation
-Models"
+  slogan = "Pervasive Agentic Systems and Multimodal Foundation Models"
 
   #image_404 = "img/favicon.jpg"
   title_404 = "Nothing to see here :("
