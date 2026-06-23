@@ -6,7 +6,16 @@
     <description>Recent content on DIGITA 26</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 16 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://digita-percom.github.io/2026/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 30 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://digita-percom.github.io/2026/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dates</title>
+      <link>https://digita-percom.github.io/2026/dates/</link>
+      <pubDate>Sun, 30 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://digita-percom.github.io/2026/dates/</guid>
+      <description>Dates Paper submission deadline: November 17th, 2025 December 7th, 2026 Paper notification: January 5th, 2025 January 15, 2027 Camera Ready Deadline: February 2nd, 2027 Workshop: 8 March, 2027 For your Camera Ready, please refer to the official PerCom instructions </description>
+    </item>
+    
     <item>
       <title>Accepted Papers</title>
       <link>https://digita-percom.github.io/2026/accepted/</link>
@@ -15,15 +24,6 @@
       <guid>https://digita-percom.github.io/2026/accepted/</guid>
       <description>Accepted Papers We received a total of XX submissions to the workshop, out of which we accepted XX for presentation. We thank all authors and reviewers for their contribution to the PerAgent Workshop.
 Authors Title Authors Title </description>
-    </item>
-    
-    <item>
-      <title>Dates</title>
-      <link>https://digita-percom.github.io/2026/dates/</link>
-      <pubDate>Sun, 16 Jun 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://digita-percom.github.io/2026/dates/</guid>
-      <description>Dates Paper submission deadline: November 17th, 2025 December 7th, 2025 Paper notification: January 5th, 2025 January 15, 2026 Camera Ready Deadline: February 2nd, 2026 Workshop: 16 March, 2026 For your Camera Ready, please refer to the official PerCom instructions</description>
     </item>
     
     <item>
